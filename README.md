@@ -34,3 +34,45 @@ pip install opencv-python numpy
 ```
 python mataji.py
 ```
+---
+
+## ✨ Maa Durga Golden Glow Animation
+
+This project displays Maa Durga and her lion with a beautiful golden glowing effect on a black background.
+
+### 🛠️ Technologies Used
+- Python
+- OpenCV
+- NumPy
+- Python Turtle
+
+### 🚀 How to Run
+
+1. Install Python on your computer.
+2. Install the required libraries:
+
+   ```bash
+   pip install opencv-python numpy
+   ```
+
+3. Run the golden glow animation:
+
+   ```bash
+   python mataji_glow.py
+   ```
+
+4. To run the original drawing animation:
+
+   ```bash
+   python mataji.py
+   ```
+
+### 📁 Project Files
+- `mataji.py` — Original drawing animation.
+- `mataji_glow.py` — Golden glow animation.
+- `golden_durga.png.png` — Golden Maa Durga artwork.
+- `mataji.jpg` — Reference image.
+
+### 🙏 About
+A creative Python project inspired by Maa Durga, combining artwork and animation.
+
